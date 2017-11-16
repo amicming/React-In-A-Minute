@@ -20,4 +20,5 @@
     `
     - now run `heatpack index.js` from `hello-react` folder.
     - Now Open a browser with `http://localhost:3000` url.
-    
+
+- Visit https://github.com/insin/react-heatpack for more information.     
